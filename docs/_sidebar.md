@@ -23,7 +23,7 @@
   - [复习+ES6](./share/前置知识点.md)
 - JS高级旧
   - [day01](./used/js/1/JavaScript高级第01天笔记.md)
-  - [day02](./used/js/1/JavaScript高级第02天笔记.md)
-  - [day03](./used/js/1/JavaScript高级第03天笔记.md)
-  - [day04](./used/js/1/JavaScript高级第04天笔记.md)
-  - [day05](./used/js/1/es6-ES6概念&新增语法&内置对象拓展.md)
+  - [day02](./used/js/2/JavaScript高级第02天笔记.md)
+  - [day03](./used/js/3/JavaScript高级第03天笔记.md)
+  - [day04](./used/js/4/JavaScript高级第04天笔记.md)
+  - [day05](./used/js/5/es6-ES6概念&新增语法&内置对象拓展.md)
