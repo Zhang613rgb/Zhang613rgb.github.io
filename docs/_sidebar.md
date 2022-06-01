@@ -1,11 +1,11 @@
-<!-- - Web API
+- Web API
   - [Day01](./webApi/day01/01-webApi.md)
   - [Day02](./webApi/day02/02-webAPI.md)
   - [Day03](./webApi/day03/03-webApi.md)
   - [Day04](./webApi/day04/04-webApi.md)
   - [Day05](./webApi/day05/05-webApi.md)
   - [Day06](./webApi/day06/06-webApi.md)
-  - [Day07](./webApi/day07/07-webApi.md) -->
+  - [Day07](./webApi/day07/07-webApi.md)
 - jQuery
   - [Day01](./jquery/day01/01-jquery.md)
   - [Day02](./jquery/day02/02-jquery.md)
@@ -21,4 +21,9 @@
   - [项目开发流程](./share/项目开发流程.md)
   - [如何提高](./share/怎么提高.md)
   - [复习+ES6](./share/前置知识点.md)
-
+- JS高级旧
+  - [day01](./used/js/1/JavaScript高级第01天笔记.md)
+  - [day02](./used/js/1/JavaScript高级第02天笔记.md)
+  - [day03](./used/js/1/JavaScript高级第03天笔记.md)
+  - [day04](./used/js/1/JavaScript高级第04天笔记.md)
+  - [day05](./used/js/1/es6-ES6概念&新增语法&内置对象拓展.md)
