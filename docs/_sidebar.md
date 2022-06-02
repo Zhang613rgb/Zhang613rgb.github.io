@@ -21,6 +21,9 @@
   - [项目开发流程](./share/项目开发流程.md)
   - [如何提高](./share/怎么提高.md)
   - [复习+ES6](./share/前置知识点.md)
+- 以下属于新版本
+- 01-JS基础
+  - [day01](./new/js/01-js/1/README.md)
 - 以下属于旧版本
 - 01-JS基础
   - [day01](./used/js/01-js/1/JavaScript基础第01天笔记.md)
