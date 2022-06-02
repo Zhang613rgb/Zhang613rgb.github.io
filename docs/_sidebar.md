@@ -21,9 +21,17 @@
   - [项目开发流程](./share/项目开发流程.md)
   - [如何提高](./share/怎么提高.md)
   - [复习+ES6](./share/前置知识点.md)
-- JS高级旧
-  - [day01](./used/js/1/JavaScript高级第01天笔记.md)
-  - [day02](./used/js/2/JavaScript高级第02天笔记.md)
-  - [day03](./used/js/3/JavaScript高级第03天笔记.md)
-  - [day04](./used/js/4/JavaScript高级第04天笔记.md)
-  - [day05](./used/js/5/es6-ES6概念&新增语法&内置对象拓展.md)
+- 以下属于旧版本
+- 01-JS基础
+  - [day01](./used/js/01-js/1/JavaScript基础第01天笔记.md)
+  - [day02](./used/js/01-js/2/JavaScript基础第02天笔记.md)
+  - [day03](./used/js/01-js/3/JavaScript基础第03天笔记.md)
+  - [day04](./used/js/01-js/4/JavaScript基础第04天笔记.md)
+  - [day05](./used/js/01-js/5/JavaScript基础第05天笔记(1).md)
+  - [day06](./used/js/01-js/6/JavaScript基础第06天笔记.md)
+- 05-JS高级
+  - [day01](./used/js/05-js/1/JavaScript高级第01天笔记.md)
+  - [day02](./used/js/05-js/2/JavaScript高级第02天笔记.md)
+  - [day03](./used/js/05-js/3/JavaScript高级第03天笔记.md)
+  - [day04](./used/js/05-js/4/JavaScript高级第04天笔记.md)
+  - [day05](./used/js/05-js/5/es6-ES6概念&新增语法&内置对象拓展.md)
