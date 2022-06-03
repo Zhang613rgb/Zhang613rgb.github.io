@@ -24,6 +24,7 @@
 - 以下属于新版本
 - 01-JS基础
   - [day01](./new/js/01-js/1/README.md)
+  - [day02](./new/js/01-js/2/js基础02.md)
 - 以下属于旧版本
 - 01-JS基础
   - [day01](./used/js/01-js/1/JavaScript基础第01天笔记.md)
