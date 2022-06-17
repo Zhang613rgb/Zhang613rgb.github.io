@@ -33,6 +33,9 @@
   - [day02](./new/js/02-wabapis/2/README.md)
   - [day03](./new/js/02-wabapis/3/README.md)
   - [day04](./new/js/02-wabapis/4/README.md)
+- 02-Git
+  - [day01](./new/node/git/day01/git-Day01.md)
+  - [day02](./new/node/git/day02/git-Day02.md)
 - 以下属于旧版本
 - 01-JS基础
   - [day01](./used/js/01-js/1/JavaScript基础第01天笔记.md)
