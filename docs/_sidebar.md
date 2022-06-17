@@ -33,6 +33,12 @@
   - [day02](./new/js/02-wabapis/2/README.md)
   - [day03](./new/js/02-wabapis/3/README.md)
   - [day04](./new/js/02-wabapis/4/README.md)
+- 01-ajax
+  - [day01](./new/node/ajax/day01/ajax-Day01.md)
+  - [day02](./new/node/ajax/day02/ajax-Day02.md)
+  - [day03](./new/node/ajax/day03/ajax-Day03.md)
+  - [day04](./new/node/ajax/day04/ajax-Day04.md)
+  - [day05](./new/node/ajax/day05/ajax-Day05.md)
 - 02-Git
   - [day01](./new/node/git/day01/git-Day01.md)
   - [day02](./new/node/git/day02/git-Day02.md)
